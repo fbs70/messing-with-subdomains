@@ -16,12 +16,15 @@
 title: Messing with subdomains
 email: blair.shotlow@gmail.com
 description: Just screwing around
-#baseurl: "/messing-with-subdomains" # the subpath of your site, e.g. /blog
-url: "http://fbs70.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://submessing.istheskyin.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fbs70
 github_username:  fbs70
 
 version: "1.0"
+
+github:
+  repo: https://github.com/fbs70/messing-with-subdomains
 
 # Build settings
 markdown: kramdown
